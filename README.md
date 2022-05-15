@@ -1,9 +1,9 @@
 ![Github Banner](https://github.com/heyzaib/heyzaib/blob/main/Github%20Banner.svg)
 ## I mostly design, but momentarily code.
 
-This profile represents some of my contribution and works towards Open Source and side-programming.
-**On the Web:** https://zaib.codes
-**Twitter:** https://twitter.com/zaibdev
+This profile represents some of my contribution and works towards Open Source and side-programming. <br />
+**On the Web:** https://zaib.codes <br />
+**Twitter:** https://twitter.com/zaibdev <br />
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python)](https://skillicons.dev)
