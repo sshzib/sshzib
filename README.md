@@ -2,7 +2,7 @@
 ## I mostly design, but momentarily code.
 
 <a href="https://discord.com/users/903665792300769290">
-  <img src="https://lanyard.cnrad.dev/api/903665792300769290" align="right" />
+  <img src="https://lanyard.cnrad.dev/api/903665792300769290?idleMessage=Probably%20online%20but%20idle..&bg=161b22" align="right" />
 </a>
 
 This profile represents some of my contribution and works towards Open Source and side-programming. <br />
