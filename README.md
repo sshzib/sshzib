@@ -6,6 +6,9 @@ This profile represents some of my contribution and works towards Open Source an
 **Twitter:** https://twitter.com/zaibdev <br />
 
 # Tech Stack
+<a href="https://discord.com/users/903665792300769290">
+  <img src="https://lanyard.cnrad.dev/api/903665792300769290" align="right" />
+</a>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python)](https://skillicons.dev)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/903665792300769290)](https://discord.com/users/903665792300769290)
