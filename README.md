@@ -10,4 +10,4 @@ This profile represents some of my contribution and works towards Open Source an
 **Twitter:** https://twitter.com/zaibdev <br />
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,next,tailwind)](https://skillicons.dev)
