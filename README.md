@@ -7,7 +7,7 @@
 
 This profile represents some of my contribution and works towards Open Source and side-programming. <br />
 **On the Web:** https://zaib.codes <br />
-**Twitter:** https://twitter.com/zaibdev <br />
+**Twitter:** https://twitter.com/heyzaib <br />
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,next,tailwind)](https://skillicons.dev)
