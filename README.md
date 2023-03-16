@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/heyzaib/heyzaib/blob/main/Github%20Banner.svg)
+<!---![Github Banner](https://github.com/heyzaib/heyzaib/blob/main/Github%20Banner.svg)-->
 ## I mostly design, but momentarily code.
 
 <a href="https://discord.com/users/903665792300769290">
