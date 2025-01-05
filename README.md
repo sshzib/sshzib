@@ -6,7 +6,7 @@
 </a>
 
 This profile represents some of my contribution and works towards Open Source and side-programming. <br />
-**On the Web:** https://zaib.codes <br />
+**On the Web:** https://zaibahmed.co<br />
 **Twitter:** https://twitter.com/heyzaib <br />
 
 # Tech Stack
