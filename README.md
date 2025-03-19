@@ -1,13 +1,5 @@
-![Github Banner](https://github.com/heyzaib/heyzaib/blob/main/Github%20Banner.svg)
-## I mostly design, but momentarily code.
+Hi, I am Shahzaib.
 
-<a href="https://discord.com/users/903665792300769290">
-  <img src="https://lanyard.cnrad.dev/api/903665792300769290?idleMessage=Probably%20online%20but%20idle..&bg=161b22" align="right" />
-</a>
+currently building @ampierelabs and researching in machine learning.
 
-This profile represents some of my contribution and works towards Open Source and side-programming. <br />
-**On the Web:** https://zaibahmed.co<br />
-**Twitter:** https://twitter.com/heyzaib <br />
-
-# Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,next,tailwind)](https://skillicons.dev)
+socials: [x dot com](tab:https://twitter.com/sshzib) [linkedin](tab:https://linkedin.com/in/shzaibahmed)
